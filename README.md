@@ -10,6 +10,7 @@ python train_intent.py
 ```
 ## Output
 ```shell
+# output the result as a csv file
 python test_intent.py
 ```
 
